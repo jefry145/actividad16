@@ -1,0 +1,18 @@
+input{
+    box-shadow: 0px 3px 8px 2px rgb(192, 192, 192);
+    color: rgb(117, 117, 117);
+}
+label{
+    color: rgb(71, 71, 71);
+    font-weight: 600;
+}
+#radio{
+    box-shadow: 0px 2px 3px 1px rgb(192, 192, 192);
+}
+h3{
+    color: rgb(99, 99, 99);
+    font-family: Arial, Helvetica, sans-serif;
+}
+button{
+    box-shadow: 0px 2px 3px 1px rgb(167, 224, 222);
+}
